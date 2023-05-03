@@ -1,2 +1,14 @@
 # 05-FPS-Maze
-05 Project for Game Tech.
+Project for Game Technologies class and 05/3/23
+
+## Implementation
+A procedurally generated maze, a character, a pause menu.
+
+## References
+None
+
+## Future Development
+None
+
+## Created by
+Xavier Evans
